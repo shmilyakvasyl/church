@@ -180,13 +180,13 @@ const Data = [
       {
         name: "Храм св.пророка Іллі",
         address: " вул.Гоголя,2",
-        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17937.89145701369!2d23.987656164709193!3d47.972967155096796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4737a501e528b057%3A0x53cc1811f0139930!2sKhram%20Svyatoho%20Proroka%20Illi%20Ptsu!5e0!3m2!1sru!2sua!4v1650280562776!5m2!1sru!2sua",
+        src: "<https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2671.0149480770797!2d23.984608515607952!3d47.97476957921074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4737a501e528b057%3A0x53cc1811f0139930!2sKhram%20Svyatoho%20Proroka%20Illi%20Ptsu!5e0!3m2!1sru!2sua!4v1650387272472!5m2!1sru!2sua",
         img: "немає фото",
       },
       {
         name: "Храм Покрови Пресвятої Богородиці",
         address: "вул.Покровська",
-        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8907.853776371616!2d23.99859633834922!3d47.96797517797461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4737a5d428e7c309%3A0x8753ff18b1153e7f!2sTserkva%20Ptsu%20Pokrovy%20Presvyatoyi%20Bohorodytsi.!5e0!3m2!1sru!2sua!4v1650280664369!5m2!1sru!2sua",
+        src:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2622.643109269256!2d23.997759215607743!3d47.96849707921032!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4737a5d428e7c309%3A0x8753ff18b1153e7f!2sTserkva%20Ptsu%20Pokrovy%20Presvyatoyi%20Bohorodytsi.!5e1!3m2!1sru!2sua!4v1650387749755!5m2!1sru!2sua",
         img: "https://www.google.com/maps/place/Tserkva+Ptsu+Pokrovy+Presvyatoyi+Bohorodytsi./@47.9683683,23.9997529,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMcsctcoCCNPTus-Kxw5wlj1wqn59eNnSSD4kI7!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMcsctcoCCNPTus-Kxw5wlj1wqn59eNnSSD4kI7%3Dw203-h440-k-no!7i1844!8i4000!4m9!1m2!2m1!1z0YHQvNGCLtCS0LXQu9C40LrQuNC5INCR0LjRh9C60ZbQsiDRhtC10YDQutCy0LA!3m5!1s0x4737a5d428e7c309:0x8753ff18b1153e7f!8m2!3d47.9684909!4d23.9998607!15sCi_RgdC80YIu0JLQtdC70LjQutC40Lkg0JHQuNGH0LrRltCyINGG0LXRgNC60LLQsJIBBmNodXJjaA!5m1!1e1#",
       },
     ],
@@ -214,24 +214,13 @@ const Data = [
     ],
   },
   {
-    city: "с.Ділове",
-    churches: [
-      {
-        name: "Храм Успіння Пресвятої Богородиці ",
-        address: "вул.Визволення,4 А",
-        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d922.3949765004501!2d24.17284536937064!3d47.93650233743482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4737ad6376f7aa1f%3A0xfa68558e6b3e16a4!2sTserkva%20Rizdva%20Presvyatoyi%20Bohorodytsi!5e0!3m2!1sru!2sua!4v1650281238070!5m2!1sru!2sua",
-        img: "https://www.google.com/maps/place/Tserkva+Rizdva+Presvyatoyi+Bohorodytsi/@47.9372028,24.1733362,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNA7XABHGu1QgpW4IHx-2wyleGFdNNvWkgfdEV_!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNA7XABHGu1QgpW4IHx-2wyleGFdNNvWkgfdEV_%3Dw114-h86-k-no!7i3200!8i2400!4m13!1m7!3m6!1s0x4737ad9ba1cc6cff:0x9bea79acaba5a42e!2z0JTQtdC70L7QstC-0LUsINCX0LDQutCw0YDQv9Cw0YLRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwgOTA2MjU!3b1!8m2!3d47.9359496!4d24.1736814!3m4!1s0x4737ad6376f7aa1f:0xfa68558e6b3e16a4!8m2!3d47.9371819!4d24.173245!5m1!1e1#",
-      },
-    ],
-  },
-  {
     city: "смт.Ясіня",
     churches: [
       {
-        name: "Храм св.Георгія Переможця ",
-        address: "присілок Кевелів №41",
-        src: "",
-        img: "",
+        name: "Православна Церква Покрови Пресвятої Богородиці",
+        address: "нема",
+        src:"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3357.759044409096!2d24.34590861902491!3d48.25721803202253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47371bae2f5234fd%3A0x4320c55206d9ba8b!2z0J_RgNCw0LLQvtGB0LvQsNCy0L3QsCDQptC10YDQutCy0LAg0J_QvtC60YDQvtCy0Lgg0J_RgNC10YHQstGP0YLQvtGXINCR0L7Qs9C-0YDQvtC00LjRhtGW!5e1!3m2!1sru!2sua!4v1650393205811!5m2!1sru!2sua",
+        img: "https://lh5.googleusercontent.com/p/AF1QipMkWR0QLcYEM06ts2rB4RMj9Kp1EdonxY6bnjxC=w408-h306-k-no",
       },
       {
         name: "Свято-Іллінський храм",
