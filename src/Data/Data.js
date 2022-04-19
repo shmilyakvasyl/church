@@ -64,7 +64,7 @@ const Data = [
       {
         name: " Храм Успіння Пресвятої Богородиці",
         address: "вул.Я.Мудрого,42 а.",
-        src: "<https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10588.373633712763!2d22.707202369775395!3d48.43554699999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739ab7fd4163e8d%3A0x62cd39a2c8ca9e66!2sUspens%CA%B9ka%20Tserkva%20Ptsu!5e0!3m2!1sru!2sua!4v1650276783086!5m2!1sru!2sua",
+        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10588.373633712763!2d22.707202369775395!3d48.43554699999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739ab7fd4163e8d%3A0x62cd39a2c8ca9e66!2sUspens%CA%B9ka%20Tserkva%20Ptsu!5e0!3m2!1sru!2sua!4v1650276783086!5m2!1sru!2sua",
         img: "https://www.google.com/maps/place/Uspens%CA%B9ka+Tserkva+Ptsu/@48.4355612,22.7159696,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipP6plzXOXjF0vyin5bsyx9dQzZD_QinXUB_Tb5X!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipP6plzXOXjF0vyin5bsyx9dQzZD_QinXUB_Tb5X%3Dw86-h191-k-no!7i1800!8i4000!4m13!1m7!3m6!1s0x4739ac8029c5add9:0x834daef883089b0a!2z0YPQuy4g0K_RgNC-0YHQu9Cw0LLQsCDQnNGD0LTRgNC-0LPQviwgNDIsINCc0YPQutCw0YfQtdCy0L4sINCX0LDQutCw0YDQv9Cw0YLRgdC60LDRjyDQvtCx0LvQsNGB0YLRjCwgODk2MTE!3b1!8m2!3d48.4356086!4d22.7164784!3m4!1s0x4739ab7fd4163e8d:0x62cd39a2c8ca9e66!8m2!3d48.4355612!4d22.7159696#",
       },
       {
@@ -81,7 +81,7 @@ const Data = [
       {
         name: "Храм св. пророка і предтечі Господнього Івана Хрестителя",
         address: "вул.Асталоша,24.",
-        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1311.454019166516!2d22.992454845795724!3d48.54948496683497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739bb02cb330d81%3A0xab6f2c4cb19c2300!2z0LLRg9C70LjRhtGPINCQ0YHRgtCw0LvQvtGI0LAsINCh0LLQsNC70Y_QstCwLCDQl9Cw0LrQsNGA0L_QsNGC0YHRjNC60LAg0L7QsdC70LDRgdGC0YwsIDg5MzAw!5e0!3m2!1sru!2sua!4v1650278513899!5m2!1sru!2sua",
+        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1352601.2010895442!2d21.82888365300191!3d48.537079377608606!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739bae358490b77%3A0x10d283e14a3b3d91!2sTserkva%20Rizdva%20Presvyatoyi%20Bohorodytsi!5e0!3m2!1sru!2sua!4v1650384412476!5m2!1sru!2sua",
         img: "Немає фото",
       },
     ],
@@ -92,7 +92,7 @@ const Data = [
       {
         name: "Храм Різдва Пресвятої Богородиці",
         address: " с.Пилипець № 362.",
-        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2580.6762167851216!2d23.33571477887782!3d48.66912347806067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739eb4175211e61%3A0x6cc6eae1d3108104!2z0JTQtdGA0LXQstGP0L3QvdCw0Y8g0YbQtdGA0LrQvtCy0Ywg0KDQvtC20LTQtdGB0YLQstCwINCf0YDQtdGB0LLRj9GC0L7QuSDQkdC-0LPQvtGA0L7QtNC40YbRiw!5e0!3m2!1sru!2sua!4v1650278974663!5m2!1sru!2sua",
+        src: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d658.7230628517005!2d23.337529168803744!3d48.669303363610496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4739eb410b15459b%3A0x8bfd94808281390f!2sKhram%20Rizdva%20Presvyatoyi%20Bohorodytsi%20Mukachivs%CA%B9koyi%20Hreko-Katolyts%CA%B9koyi%20Yeparkhiyi!5e0!3m2!1sru!2sua!4v1650384326282!5m2!1sru!2sua",
         img: "https://www.google.com/maps/place/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F+%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C+%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%B0+%D0%9F%D1%80%D0%B5%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B9+%D0%91%D0%BE%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B8%D1%86%D1%8B/@48.6696252,23.338244,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNfTlIPZWAMlxQRavYPmpx_7BBwwtHsgcRVW5XW!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNfTlIPZWAMlxQRavYPmpx_7BBwwtHsgcRVW5XW%3Dw114-h86-k-no!7i4000!8i3000!4m9!1m2!2m1!1z0YEu0J_QuNC70LjQv9C10YbRjCDRhtC10YDQutCy0LA!3m5!1s0x4739eb4175211e61:0x6cc6eae1d3108104!8m2!3d48.6696252!4d23.338244!15sCiDRgS7Qn9C40LvQuNC_0LXRhtGMINGG0LXRgNC60LLQsJIBBmNodXJjaA!5m1!1e1#",
       },
     ],
